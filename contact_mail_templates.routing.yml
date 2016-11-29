@@ -1,4 +1,4 @@
-contact_mail_templates.form:
+contact_mail_templates.template:
  path: '/admin/structure/contact/manage/feedback/template'
  defaults:
    _form: '\Drupal\contact_mail_templates\Form\ContactMailTemplatesForm'
