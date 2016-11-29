@@ -1,0 +1,5 @@
+contact_mail_templates.template:
+  title: 'Mail Template'
+  route_name: contact_mail_templates.template
+  base_route: contact_mail_templates.template
+  weight: 10

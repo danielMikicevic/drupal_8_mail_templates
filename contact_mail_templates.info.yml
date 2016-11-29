@@ -1,0 +1,8 @@
+name: Contact Mail Templates
+type: module
+description: 'Mail templates for drupal core contact forms'
+package: Development
+core: 8.x
+configure: contact_mail_templates.form
+dependencies:
+  - contact:contact

@@ -1,0 +1,5 @@
+contact_mail_templates.template:
+  title: 'Mail Template'
+  description: 'Create your custom mail template.'
+  route_name: contact_mail_templates.template
+  parent: 'system.admin_structure_contact_manage_feedback'

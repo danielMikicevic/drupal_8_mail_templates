@@ -1,0 +1,7 @@
+contact_mail_templates.template:
+ type: config_object
+ label: 'Mail title'
+ mapping:
+   title:
+     type: text
+     label: 'Mail title'
